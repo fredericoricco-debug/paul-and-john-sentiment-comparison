@@ -2,6 +2,8 @@
 import requests
 import json
 import time
+from bs4 import BeautifulSoup
+import re
 
 class GeniusSearch:
     def __init__(self, token=None):
@@ -144,12 +146,50 @@ class GeniusSearch:
         with open(f"{file_path}{name.lower().replace(" ", "_")}_songs.json", "w") as file:
             json.dump(songs, file, indent=4)
 
+    def get_song_lyrics(self, song_id):
+        # Create the request
+        url = f"https://api.genius.com/songs/{song_id}"
+        response = requests.get(url, headers=self.headers)
+        # If the response status code is 200, return the lyrics
+        if response.status_code == 200:
+            path = response.json()["response"]["song"]["path"]
+            # Create the request
+            url = f"https://genius.com{path}"
+            page = requests.get(url)
+            # If the response status code is 200, return the lyrics
+            if response.status_code == 200:
+                html = BeautifulSoup(page.text, "html.parser")
+                divs = html.find_all("div", class_=re.compile("^lyrics$|Lyrics__Container"))
+                    # This function ensures spaces are correctly inserted between elements
+                def add_space(element):
+                    text = ' '.join(element.stripped_strings)
+                    return text.replace(' ]', ']').replace('[ ', '[')  # Clean up bracket spacing
+
+                lyrics = "\n".join([add_space(div) for div in divs])
+                lyrics = re.sub(r'(\[.*?\])*', '', lyrics)
+                lyrics = re.sub('\n{2}', '\n', lyrics)  # Reduce gaps between verses
+                return lyrics.strip("\n")
+            else: 
+                # If the response status code is not 200, return None
+                return None
+        else:
+            # If the response status code is not 200, return None
+            return None
+
+def get_lyrics(id, genius_object, token=None):
+    # get the lyrics
+    lyrics = genius_object.get_song_lyrics(id)
+    # return the lyrics
+    return lyrics
+
 if __name__ == "__main__":
     # Create a GeniusSearch object
     genius = GeniusSearch()
-    # Search and save the artists songs
-    genius.search_and_save_artist_ids("The Beatles", "artist_data/", limit=20)
-    # Print the pretty json decoded
+    # Get the lyrics for the song with id 123444
+    lyrics = get_lyrics(123444, genius)
+    # Print the lyrics
+    print(lyrics)
+
     
     
 
