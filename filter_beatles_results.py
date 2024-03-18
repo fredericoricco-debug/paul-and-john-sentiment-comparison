@@ -9,7 +9,6 @@ import time
 # get the lyric fetcher
 from genius_api import GeniusSearch, get_lyrics
 
-
 # Normalize text function
 def normalize_text(text):
     text = unidecode.unidecode(text)  # Normalize UTF-8 characters to ASCII
