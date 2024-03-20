@@ -176,7 +176,7 @@ class GeniusSearch:
             # If the response status code is not 200, return None
             return None
 
-def get_lyrics(id, genius_object, token=None):
+def get_lyrics(id, genius_object):
     # get the lyrics
     lyrics = genius_object.get_song_lyrics(id)
     # return the lyrics
