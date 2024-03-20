@@ -170,7 +170,7 @@ class GeniusSearch:
         # Get the artist songs
         songs = self.get_all_artist_songs(artist_id, results_limit=limit, initial_page=initial_page, pbar=pbar)
         # Save the songs to a file
-        with open(f"{file_path}{name.lower().replace(" ", "_")}_songs.json", "w") as file:
+        with open(file_path + name.lower().replace(" ", "_") + "_songs.json", "w") as file:
             json.dump(songs, file, indent=4)
 
     def get_song_lyrics(self, song_id):
