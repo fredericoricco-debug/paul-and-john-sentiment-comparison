@@ -7,7 +7,7 @@ from tqdm import tqdm
 import time
 
 # get the lyric fetcher
-from genius_api import GeniusSearch, get_lyrics
+from data_gathering_helpers.genius_api import GeniusSearch, get_lyrics
 
 # Normalize text function
 def normalize_text(text):

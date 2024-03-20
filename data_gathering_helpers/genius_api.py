@@ -4,6 +4,7 @@ import json
 import time
 from bs4 import BeautifulSoup
 import re
+import random
 
 class GeniusSearch:
     def __init__(self, token=None):
@@ -91,13 +92,34 @@ class GeniusSearch:
                 "song_name": song["title"],
                 "artist_name": song["primary_artist"]["name"],
                 "artist_id": new_artist_id,
-                "release_date": song["release_date_components"]
+                "release_date": song["release_date_components"],
             }
+            try:
+                dictionary[song_id]["album_name"] = self.get_album_name(song_id)
+            except:
+                dictionary[song_id]["album_name"] = None
         # Return the dictionary
         return dictionary
 
+    def get_album_name(self, song_id):
+        # Sleep for a random amount of time between 1 and 2 seconds
+        random_time = random.uniform(1, 2)
+        time.sleep(random_time)
+        # Create the request
+        url = f"https://api.genius.com/songs/{song_id}"
+        response = requests.get(url, headers=self.headers)
+        # If the response status code is 200, return the album name
+        if response.status_code == 200:
+            try:
+                album_name = response.json()["response"]["song"]["album"]["name"]
+                return album_name
+            except:
+                return None
+        else:
+            # If the response status code is not 200, return None
+            return None
 
-    def get_all_artist_songs(self, artist_id, results_per_page=50, results_limit=None, initial_page = 1):
+    def get_all_artist_songs(self, artist_id, results_per_page=50, results_limit=None, initial_page = 1, pbar=None):
         # Create empty dictionary
         dictionary = {}
         # Starting page
@@ -106,7 +128,10 @@ class GeniusSearch:
         blank_url = f"https://api.genius.com/artists/{artist_id}/songs?per_page={results_per_page}&page={page}"
         response = requests.get(blank_url, headers=self.headers)
         while True:
-            print(f"Page {page} started processing.")
+            if pbar is not None:
+                # Set one of the progress bar's descriptions to the page number
+                # But not the main one, as it will be overwritten by the artist name
+                pbar.set_postfix({"Page": page})
             # If the response status code is 200, extract the song ids
             if response.status_code == 200:
                 dictionary = self.extract_song_ids(response.json(), artist_id, dictionary)
@@ -120,28 +145,30 @@ class GeniusSearch:
                 if len(response.json()["response"]["songs"]) == 0:
                     print(f"Page {page} contained no results.")
                     break
-                # Print the page that just processed
-                print(f"Page {page} finished processing.")
                 # Increment the page
                 page += 1
                 # Create the request
                 url = f"https://api.genius.com/artists/{artist_id}/songs?per_page={results_per_page}&page={page}"
                 response = requests.get(url, headers=self.headers)
-                # Sleep for 1 second
-                time.sleep(1)
+                # Sleep for a random amount of time between 1 and 2 seconds
+                random_time = random.uniform(1, 2)
+                time.sleep(random_time)
             else:
                 # If the response status code is not 200, break
-                break
-            # Print out the length of the dictionary
-            print(f"Number of songs collected for artist {artist_id} length: {len(dictionary)}")
+                break 
+            # Set the progress bar description to the number of songs found so far
+            if pbar is not None:
+                # Set one of the progress bar's descriptions to the page number
+                # But not the main one, as it will be overwritten by the artist name
+                pbar.set_postfix({"Songs Found": len(dictionary)})
         # Return the dictionary
         return dictionary
 
-    def search_and_save_artist_ids(self, artist_name, file_path, limit=None, initial_page = 1):
+    def search_and_save_artist_ids(self, artist_name, file_path, limit=None, initial_page = 1, pbar=None):
         # Get the artist id
         artist_id, name = self.get_artist_id(artist_name)
         # Get the artist songs
-        songs = self.get_all_artist_songs(artist_id, results_limit=limit, initial_page=1)
+        songs = self.get_all_artist_songs(artist_id, results_limit=limit, initial_page=initial_page, pbar=pbar)
         # Save the songs to a file
         with open(f"{file_path}{name.lower().replace(" ", "_")}_songs.json", "w") as file:
             json.dump(songs, file, indent=4)
