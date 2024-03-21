@@ -148,11 +148,12 @@ if __name__ == "__main__":
         df.to_csv(file_path_lyrics + artist.lower().replace(" ", "_") + "_lyrics.csv", index=False)
     print("Lyrics gathering finished.")
 
-    if "The Beatles" in artist_names:
+    if "The Beatles" not in  artist_names:
         print("Data gathering finished.")
     else:
         # Start beatles specific data processing
         process_beatles_data(file_path_lyrics)
+        print("Data gathering finished.")
 
 
     

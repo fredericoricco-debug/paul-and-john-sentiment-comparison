@@ -72,7 +72,3 @@ def process_beatles_data(lyrics_csv_path):
     # save the data
     df_matched = pd.DataFrame(matched_rows)
     df_matched.to_csv(beatles_path + "beatles_data.csv", index=False)
-        
-
-if __name__ == "__main__":
-    process_beatles_data("artist_lyrics/")
