@@ -1,0 +1,4614 @@
+{
+    "4100821": {
+        "song_name": "12-Bar Original",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1996,
+            "month": 3,
+            "day": 18
+        },
+        "album_name": "Anthology 2"
+    },
+    "210353": {
+        "song_name": "1822!",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "3139792": {
+        "song_name": "A Beginning",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1996,
+            "month": 10,
+            "day": 28
+        },
+        "album_name": "Anthology 3"
+    },
+    "4078608": {
+        "song_name": "A Beginning (Take 4) / Don\u2019t Pass Me By (Take 7)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2018,
+            "month": 11,
+            "day": 9
+        },
+        "album_name": "The Beatles (White Album) [Super Deluxe]"
+    },
+    "123444": {
+        "song_name": "Across the Universe",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 12,
+            "day": 12
+        },
+        "album_name": "Let It Be"
+    },
+    "123816": {
+        "song_name": "Act Naturally",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 8,
+            "day": 6
+        },
+        "album_name": "Help!"
+    },
+    "1436": {
+        "song_name": "A Day in the Life",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 5,
+            "day": 26
+        },
+        "album_name": "Sgt. Pepper\u2019s Lonely Hearts Club Band"
+    },
+    "118166": {
+        "song_name": "A Hard Day\u2019s Night",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 7,
+            "day": 10
+        },
+        "album_name": "A Hard Day\u2019s Night"
+    },
+    "9204278": {
+        "song_name": "A Hard Day\u2019s Night \u2014 Their First Movie",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "4817134": {
+        "song_name": "Ain\u2019t Nothing Shakin\u2019 (But The Leaves)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1977,
+            "month": null,
+            "day": null
+        },
+        "album_name": "Live! at the Star-Club in Hamburg, Germany; 1962"
+    },
+    "210540": {
+        "song_name": "Ain\u2019t She Sweet (Anthology 1 version)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1960,
+            "month": null,
+            "day": null
+        },
+        "album_name": "Ain\u2019t She Sweet"
+    },
+    "210315": {
+        "song_name": "A Little Rhyme",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "123414": {
+        "song_name": "All I\u2019ve Got to Do",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "With the Beatles"
+    },
+    "123415": {
+        "song_name": "All My Loving",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "With the Beatles"
+    },
+    "210712": {
+        "song_name": "All Things Must Pass (Demo)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1993,
+            "month": 3,
+            "day": 10
+        },
+        "album_name": "Anthology 3"
+    },
+    "123437": {
+        "song_name": "All Together Now",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 1,
+            "day": 13
+        },
+        "album_name": "Yellow Submarine"
+    },
+    "1497768": {
+        "song_name": "All Together on the Wireless Machine",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "71028": {
+        "song_name": "All You Need Is Love",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 7,
+            "day": 7
+        },
+        "album_name": "Magical Mystery Tour"
+    },
+    "4696123": {
+        "song_name": "And Here We Are Again",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "On Air \u2013 Live At The BBC Volume 2"
+    },
+    "123533": {
+        "song_name": "And I Love Her",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 7,
+            "day": 20
+        },
+        "album_name": "A Hard Day\u2019s Night"
+    },
+    "106576": {
+        "song_name": "And Your Bird Can Sing",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 6,
+            "day": 20
+        },
+        "album_name": "Yesterday and Today"
+    },
+    "209433": {
+        "song_name": "Anna (Go to Him)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 3,
+            "day": 22
+        },
+        "album_name": "Please Please Me"
+    },
+    "1473041": {
+        "song_name": "Another Beatles Christmas Record",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 12,
+            "day": 18
+        },
+        "album_name": "The Beatles\u2019 Christmas Album"
+    },
+    "111336": {
+        "song_name": "Another Girl",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 8,
+            "day": 6
+        },
+        "album_name": "Help!"
+    },
+    "5592202": {
+        "song_name": "Anthology 3 [Booklet]",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1996,
+            "month": 10,
+            "day": 28
+        },
+        "album_name": "Anthology 3"
+    },
+    "123537": {
+        "song_name": "Any Time at All",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 7,
+            "day": 10
+        },
+        "album_name": "A Hard Day\u2019s Night"
+    },
+    "1300039": {
+        "song_name": "A Picture Of You",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "210303": {
+        "song_name": "A Shot Of Rhythm And Blues",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "117714": {
+        "song_name": "Ask Me Why",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 3,
+            "day": 22
+        },
+        "album_name": "Please Please Me"
+    },
+    "117722": {
+        "song_name": "A Taste of Honey",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 3,
+            "day": 22
+        },
+        "album_name": "Please Please Me"
+    },
+    "209442": {
+        "song_name": "Baby It\u2019s You",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 3,
+            "day": 22
+        },
+        "album_name": "Please Please Me"
+    },
+    "123796": {
+        "song_name": "Baby\u2019s in Black",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 12,
+            "day": 4
+        },
+        "album_name": "Beatles for Sale"
+    },
+    "123870": {
+        "song_name": "Baby, You\u2019re a Rich Man",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 7,
+            "day": 7
+        },
+        "album_name": "Magical Mystery Tour"
+    },
+    "75661": {
+        "song_name": "Back in the U.S.S.R.",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "210239": {
+        "song_name": "Bad Boy",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 6,
+            "day": 14
+        },
+        "album_name": "Beatles VI"
+    },
+    "1274297": {
+        "song_name": "Bad to Me",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 7,
+            "day": 26
+        },
+        "album_name": null
+    },
+    "9204271": {
+        "song_name": "Beatlemania In Action",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "9204283": {
+        "song_name": "Beatle Medley",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "4722671": {
+        "song_name": "Beatles For Sale - Foreward",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "210284": {
+        "song_name": "Beatles Greetings (Live at the BBC for \u201cThe Public Ear\u201d / 3rd November, 1963)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC"
+    },
+    "1082581": {
+        "song_name": "Beatles Movie Medley",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1982,
+            "month": 3,
+            "day": 24
+        },
+        "album_name": null
+    },
+    "9204275": {
+        "song_name": "Beatles Will Be Beatles",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "861113": {
+        "song_name": "Beautiful Dreamer",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "On Air \u2013 Live At The BBC Volume 2"
+    },
+    "975748": {
+        "song_name": "Be-Bop-A-Lula",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "107908": {
+        "song_name": "Because",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "1458616": {
+        "song_name": "Because I Know You Love Me So",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "76565": {
+        "song_name": "Being for the Benefit of Mr. Kite!",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 5,
+            "day": 26
+        },
+        "album_name": "Sgt. Pepper\u2019s Lonely Hearts Club Band"
+    },
+    "1828811": {
+        "song_name": "Being for the Benefit of Mr. Kite!/I Want You (She\u2019s So Heavy)/Helter Skelter",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2006,
+            "month": 11,
+            "day": 21
+        },
+        "album_name": "Love"
+    },
+    "5165176": {
+        "song_name": "Being for the Benefit of Mr. Kite/I Want You (She\u2019s So Heavy)/Helter Skelter (LOVE Version)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2006,
+            "month": 11,
+            "day": 20
+        },
+        "album_name": null
+    },
+    "210550": {
+        "song_name": "Besame Mucho",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1995,
+            "month": 11,
+            "day": 21
+        },
+        "album_name": "Anthology 1"
+    },
+    "76302": {
+        "song_name": "Birthday",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "1556": {
+        "song_name": "Blackbird",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "1807679": {
+        "song_name": "Blackbird/Yesterday",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2006,
+            "month": 11,
+            "day": 21
+        },
+        "album_name": "Love"
+    },
+    "109214": {
+        "song_name": "Blue Jay Way",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 11,
+            "day": 27
+        },
+        "album_name": "Magical Mystery Tour"
+    },
+    "955766": {
+        "song_name": "Blue Moon of Kentucky",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "4078643": {
+        "song_name": "Blue Moon (Studio Jam)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2018,
+            "month": 11,
+            "day": 9
+        },
+        "album_name": "The Beatles (White Album) [Super Deluxe]"
+    },
+    "1083656": {
+        "song_name": "Blue Suede Shoes",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "209437": {
+        "song_name": "Boys",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 3,
+            "day": 22
+        },
+        "album_name": "Please Please Me"
+    },
+    "51126": {
+        "song_name": "Can\u2019t Buy Me Love",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 3,
+            "day": 16
+        },
+        "album_name": "A Hard Day\u2019s Night"
+    },
+    "1831212": {
+        "song_name": "Can You Dig It?",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2021,
+            "month": 10,
+            "day": 15
+        },
+        "album_name": "Let It Be (Super Deluxe Edition)"
+    },
+    "1336394": {
+        "song_name": "Can You Take Me Back",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": null
+    },
+    "4078647": {
+        "song_name": "Can You Take Me Back? (Take 1)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2018,
+            "month": 11,
+            "day": 9
+        },
+        "album_name": "The Beatles (White Album) [Super Deluxe]"
+    },
+    "5482854": {
+        "song_name": "Carnival of Light",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2012,
+            "month": 1,
+            "day": 16
+        },
+        "album_name": null
+    },
+    "210310": {
+        "song_name": "Carol",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "Live At The BBC"
+    },
+    "107915": {
+        "song_name": "Carry That Weight",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "5516964": {
+        "song_name": "\u200ecase of the blues",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "3541353": {
+        "song_name": "Cayenne",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1995,
+            "month": null,
+            "day": null
+        },
+        "album_name": "Anthology 1"
+    },
+    "209435": {
+        "song_name": "Chains",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 3,
+            "day": 22
+        },
+        "album_name": "Please Please Me"
+    },
+    "359344": {
+        "song_name": "Child of Nature",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2018,
+            "month": 11,
+            "day": 9
+        },
+        "album_name": null
+    },
+    "292674": {
+        "song_name": "Christmas Time (Is Here Again)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 12,
+            "day": 15
+        },
+        "album_name": "The Beatles\u2019 Christmas Album"
+    },
+    "4078593": {
+        "song_name": "Circles (Esher Demo)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2018,
+            "month": 11,
+            "day": 9
+        },
+        "album_name": "The Beatles (White Album) [Super Deluxe]"
+    },
+    "210330": {
+        "song_name": "Clarabella",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC"
+    },
+    "210718": {
+        "song_name": "Come and Get It (Studio Demo)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1996,
+            "month": 10,
+            "day": 28
+        },
+        "album_name": "Anthology 3"
+    },
+    "56218": {
+        "song_name": "Come Together",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "1325446": {
+        "song_name": "Come Together/Dear Prudence/Cry Baby Cry",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2006,
+            "month": 11,
+            "day": 21
+        },
+        "album_name": "Love"
+    },
+    "1664444": {
+        "song_name": "Commonwealth",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "7141713": {
+        "song_name": "Concentrate On the Sound (Mono)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2021,
+            "month": 10,
+            "day": 15
+        },
+        "album_name": "Let It Be (Super Deluxe Edition)"
+    },
+    "210343": {
+        "song_name": "Crinsk Dee Night",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "123834": {
+        "song_name": "Cry Baby Cry",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "1775800": {
+        "song_name": "Cry for a Shadow",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": null,
+            "day": null
+        },
+        "album_name": "The Savage Young Beatles"
+    },
+    "210334": {
+        "song_name": "Crying, Waiting, Hoping",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "114778": {
+        "song_name": "Day Tripper",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 3
+        },
+        "album_name": "Yesterday and Today"
+    },
+    "75662": {
+        "song_name": "Dear Prudence",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "210336": {
+        "song_name": "Dear Wack!",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "123432": {
+        "song_name": "Devil in Her Heart",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "With the Beatles"
+    },
+    "123442": {
+        "song_name": "Dig a Pony",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1970,
+            "month": 5,
+            "day": 8
+        },
+        "album_name": "Let It Be"
+    },
+    "186562": {
+        "song_name": "Dig It",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1970,
+            "month": 5,
+            "day": 8
+        },
+        "album_name": "Let It Be"
+    },
+    "123819": {
+        "song_name": "Dizzy Miss Lizzy",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 8,
+            "day": 6
+        },
+        "album_name": "Beatles VI"
+    },
+    "106578": {
+        "song_name": "Doctor Robert",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 8,
+            "day": 5
+        },
+        "album_name": "Yesterday and Today"
+    },
+    "123419": {
+        "song_name": "Don\u2019t Bother Me",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "With the Beatles"
+    },
+    "210772": {
+        "song_name": "Don\u2019t Ever Change",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "112429": {
+        "song_name": "Don\u2019t Let Me Down",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 4,
+            "day": 11
+        },
+        "album_name": "Hey Jude"
+    },
+    "76297": {
+        "song_name": "Don\u2019t Pass Me By",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "1308579": {
+        "song_name": "Down in Eastern Australia",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "117720": {
+        "song_name": "Do You Want to Know a Secret",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 3,
+            "day": 22
+        },
+        "album_name": "Please Please Me"
+    },
+    "1246033": {
+        "song_name": "Dream Baby",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1993,
+            "month": null,
+            "day": null
+        },
+        "album_name": null
+    },
+    "111330": {
+        "song_name": "Drive My Car",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 3
+        },
+        "album_name": "Rubber Soul"
+    },
+    "1807949": {
+        "song_name": "Drive My Car/The Word/What You\u2019re Doing",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2006,
+            "month": 11,
+            "day": 20
+        },
+        "album_name": "Love"
+    },
+    "88519": {
+        "song_name": "Eight Days a Week",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 12,
+            "day": 4
+        },
+        "album_name": "Beatles for Sale"
+    },
+    "1577": {
+        "song_name": "Eleanor Rigby",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 8,
+            "day": 5
+        },
+        "album_name": "Revolver"
+    },
+    "5169117": {
+        "song_name": "Eleanor Rigby/Julia (LOVE Version)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2006,
+            "month": 11,
+            "day": 20
+        },
+        "album_name": null
+    },
+    "1827224": {
+        "song_name": "Eleanor Rigby / Julia (Transition)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2006,
+            "month": 11,
+            "day": 21
+        },
+        "album_name": "Love"
+    },
+    "76305": {
+        "song_name": "Everybody\u2019s Got Something to Hide Except Me and My Monkey",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "123808": {
+        "song_name": "Everybody\u2019s Trying to Be My Baby",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 12,
+            "day": 4
+        },
+        "album_name": "Beatles for Sale"
+    },
+    "123804": {
+        "song_name": "Every Little Thing",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 12,
+            "day": 4
+        },
+        "album_name": "Beatles for Sale"
+    },
+    "1616544": {
+        "song_name": "Fab Four on Film",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "892164": {
+        "song_name": "Falling in Love Again",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1960,
+            "month": null,
+            "day": null
+        },
+        "album_name": "Live! at the Star-Club in Hamburg, Germany; 1962"
+    },
+    "5819148": {
+        "song_name": "Feels Right",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2020,
+            "month": 7,
+            "day": 31
+        },
+        "album_name": null
+    },
+    "76563": {
+        "song_name": "Fixing a Hole",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 5,
+            "day": 26
+        },
+        "album_name": "Sgt. Pepper\u2019s Lonely Hearts Club Band"
+    },
+    "192534": {
+        "song_name": "Flying",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 11,
+            "day": 27
+        },
+        "album_name": "Magical Mystery Tour"
+    },
+    "5347069": {
+        "song_name": "Fly on the Wall (Bonus Disc)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2003,
+            "month": 11,
+            "day": 17
+        },
+        "album_name": "Let It Be\u2026 Naked"
+    },
+    "1576": {
+        "song_name": "For No One",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 8,
+            "day": 5
+        },
+        "album_name": "Revolver"
+    },
+    "123452": {
+        "song_name": "For You Blue",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1970,
+            "month": 5,
+            "day": 8
+        },
+        "album_name": "Let It Be"
+    },
+    "210535": {
+        "song_name": "Free as a Bird",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1995,
+            "month": 12,
+            "day": 4
+        },
+        "album_name": "Anthology 1"
+    },
+    "6050460": {
+        "song_name": "From A Window",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 1,
+            "day": 1
+        },
+        "album_name": null
+    },
+    "210361": {
+        "song_name": "From Fluff To You (Live at the BBC for \u201cFrom Us To You Say The Beatles\u201d / 10th March, 1964)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC"
+    },
+    "123525": {
+        "song_name": "From Me to You",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 4,
+            "day": 11
+        },
+        "album_name": "Twist and Shout"
+    },
+    "210286": {
+        "song_name": "From Us to You (Live at the BBC / Opening Theme from \u201cFrom Us to You\u201d / 1964)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC"
+    },
+    "5457679": {
+        "song_name": "Geh raus",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": null,
+            "day": null
+        },
+        "album_name": null
+    },
+    "9204277": {
+        "song_name": "George Harrison",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "3816340": {
+        "song_name": "Get Back",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1970,
+            "month": 5,
+            "day": 8
+        },
+        "album_name": "Let It Be"
+    },
+    "76561": {
+        "song_name": "Getting Better",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 5,
+            "day": 26
+        },
+        "album_name": "Sgt. Pepper\u2019s Lonely Hearts Club Band"
+    },
+    "7141714": {
+        "song_name": "Gimme Some Truth (Rehearsal) [Mono]",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2021,
+            "month": 10,
+            "day": 15
+        },
+        "album_name": "Let It Be (Super Deluxe Edition)"
+    },
+    "71857": {
+        "song_name": "Girl",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 3
+        },
+        "album_name": "Rubber Soul"
+    },
+    "210748": {
+        "song_name": "Glad All Over",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1962,
+            "month": 9,
+            "day": 16
+        },
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "75663": {
+        "song_name": "Glass Onion",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "922235": {
+        "song_name": "Gnik Nus",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2006,
+            "month": 11,
+            "day": 20
+        },
+        "album_name": "Love"
+    },
+    "7646390": {
+        "song_name": "God Save the Queen (Rooftop Performance)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2022,
+            "month": 1,
+            "day": 28
+        },
+        "album_name": "Get Back (Rooftop Performance)"
+    },
+    "107914": {
+        "song_name": "Golden Slumbers",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "4773386": {
+        "song_name": "Golden Slumbers / Carry That Weight (Take 17 \u2013 Instrumental \u2013 Strings & Brass Only)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": null,
+            "day": null
+        },
+        "album_name": "Abbey Road (Super Deluxe Edition)"
+    },
+    "980274": {
+        "song_name": "Goodbye (Home Demo)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2019,
+            "month": 9,
+            "day": 27
+        },
+        "album_name": "Abbey Road (Super Deluxe Edition)"
+    },
+    "106571": {
+        "song_name": "Good Day Sunshine",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 8,
+            "day": 5
+        },
+        "album_name": "Revolver"
+    },
+    "71243": {
+        "song_name": "Good Morning Good Morning",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 5,
+            "day": 26
+        },
+        "album_name": "Sgt. Pepper\u2019s Lonely Hearts Club Band"
+    },
+    "5307827": {
+        "song_name": "Good Morning, Good Morning (2017 Remix)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2017,
+            "month": 5,
+            "day": 26
+        },
+        "album_name": "Sgt. Pepper\u2019s Lonely Hearts Club Band (Super Deluxe Edition)"
+    },
+    "123837": {
+        "song_name": "Good Night",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "106580": {
+        "song_name": "Got to Get You into My Life",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 8,
+            "day": 5
+        },
+        "album_name": "Revolver"
+    },
+    "210538": {
+        "song_name": "Hallelujah, I Love Her So",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1995,
+            "month": 11,
+            "day": 20
+        },
+        "album_name": "Anthology 1"
+    },
+    "1921": {
+        "song_name": "Happiness is a Warm Gun",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "2836743": {
+        "song_name": "Happy Birthday Saturday Club",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 1,
+            "day": 1
+        },
+        "album_name": null
+    },
+    "210344": {
+        "song_name": "Have A Banana!",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "123868": {
+        "song_name": "Hello, Goodbye",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 11,
+            "day": 24
+        },
+        "album_name": "Magical Mystery Tour"
+    },
+    "210549": {
+        "song_name": "Hello Little Girl",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1995,
+            "month": 11,
+            "day": 20
+        },
+        "album_name": "Anthology 1"
+    },
+    "92584": {
+        "song_name": "Help!",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 7,
+            "day": 23
+        },
+        "album_name": "Help!"
+    },
+    "1131": {
+        "song_name": "Helter Skelter",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "87577": {
+        "song_name": "Here Comes the Sun",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "4773376": {
+        "song_name": "Here Come\u2019s the Sun (Take 9)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2019,
+            "month": 9,
+            "day": 27
+        },
+        "album_name": "Abbey Road (Super Deluxe Edition)"
+    },
+    "5172003": {
+        "song_name": "Here Comes the Sun/The Inner Light (LOVE Version)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2006,
+            "month": 11,
+            "day": 20
+        },
+        "album_name": "Love"
+    },
+    "106572": {
+        "song_name": "Here, There and Everywhere",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 8,
+            "day": 5
+        },
+        "album_name": "Revolver"
+    },
+    "107916": {
+        "song_name": "Her Majesty",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "123838": {
+        "song_name": "Hey Bulldog",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 1,
+            "day": 13
+        },
+        "album_name": "Yellow Submarine"
+    },
+    "82381": {
+        "song_name": "Hey Jude",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 8,
+            "day": 26
+        },
+        "album_name": "Hey Jude"
+    },
+    "210357": {
+        "song_name": "Hippy Hippy Shake",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 2,
+            "day": 10
+        },
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "4710535": {
+        "song_name": "Historical Notes",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "123426": {
+        "song_name": "Hold Me Tight",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "With the Beatles"
+    },
+    "123803": {
+        "song_name": "Honey Don\u2019t",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 12,
+            "day": 4
+        },
+        "album_name": "Beatles for Sale"
+    },
+    "123831": {
+        "song_name": "Honey Pie",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "4696373": {
+        "song_name": "How About It, Gorgeous?",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 7,
+            "day": 30
+        },
+        "album_name": "On Air \u2013 Live At The BBC Volume 2"
+    },
+    "9204270": {
+        "song_name": "How Beatlemania Began",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "210552": {
+        "song_name": "How Do You Do It?",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1995,
+            "month": 11,
+            "day": 20
+        },
+        "album_name": "Anthology 1"
+    },
+    "56245": {
+        "song_name": "I Am the Walrus",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 11,
+            "day": 24
+        },
+        "album_name": "Magical Mystery Tour"
+    },
+    "123847": {
+        "song_name": "I Call Your Name",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": null,
+            "day": null
+        },
+        "album_name": "The Beatles\u2019 Second Album"
+    },
+    "8975206": {
+        "song_name": "I don\u2019t know why I\u2019m moaning (speech)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2021,
+            "month": 10,
+            "day": 15
+        },
+        "album_name": null
+    },
+    "123805": {
+        "song_name": "I Don\u2019t Want to Spoil the Party",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 12,
+            "day": 4
+        },
+        "album_name": "Beatles for Sale"
+    },
+    "111331": {
+        "song_name": "I Feel Fine",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "Beatles \u201965"
+    },
+    "123531": {
+        "song_name": "If I Fell",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 7,
+            "day": 10
+        },
+        "album_name": "A Hard Day\u2019s Night"
+    },
+    "209751": {
+        "song_name": "If I Needed Someone",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 3
+        },
+        "album_name": "Rubber Soul"
+    },
+    "210761": {
+        "song_name": "I Forgot To Remember To Forget",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "947609": {
+        "song_name": "If You Love Me Baby",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "The Savage Young Beatles"
+    },
+    "210579": {
+        "song_name": "If You\u2019ve Got Trouble",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1996,
+            "month": 3,
+            "day": 18
+        },
+        "album_name": "Anthology 2"
+    },
+    "210290": {
+        "song_name": "I Got A Woman",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "210766": {
+        "song_name": "I Got To Find My Baby",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "210753": {
+        "song_name": "I Just Don\u2019t Understand",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "111333": {
+        "song_name": "I\u2019ll Be Back",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 7,
+            "day": 10
+        },
+        "album_name": "A Hard Day\u2019s Night"
+    },
+    "210301": {
+        "song_name": "I\u2019ll Be On My Way",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "123539": {
+        "song_name": "I\u2019ll Cry Instead",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 7,
+            "day": 10
+        },
+        "album_name": "A Hard Day\u2019s Night"
+    },
+    "107067": {
+        "song_name": "I\u2019ll Follow the Sun",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 12,
+            "day": 4
+        },
+        "album_name": "Beatles for Sale"
+    },
+    "77405": {
+        "song_name": "I\u2019ll Get You",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 8,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Second Album"
+    },
+    "123795": {
+        "song_name": "I\u2019m a Loser",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 12,
+            "day": 4
+        },
+        "album_name": "Beatles for Sale"
+    },
+    "210241": {
+        "song_name": "I\u2019m Down",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 7,
+            "day": 19
+        },
+        "album_name": "Rock \u2018n\u2019 Roll Music"
+    },
+    "123446": {
+        "song_name": "I Me Mine",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1970,
+            "month": 5,
+            "day": 8
+        },
+        "album_name": "Let It Be"
+    },
+    "210332": {
+        "song_name": "I\u2019m Gonna Sit Right Down And Cry (Over You) (Live at the BBC)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "First Live Recordings Volume One"
+    },
+    "123532": {
+        "song_name": "I\u2019m Happy Just to Dance with You",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 7,
+            "day": 10
+        },
+        "album_name": "A Hard Day\u2019s Night"
+    },
+    "3862874": {
+        "song_name": "I\u2019m in Love",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 1,
+            "day": 1
+        },
+        "album_name": null
+    },
+    "71858": {
+        "song_name": "I\u2019m Looking Through You",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 3
+        },
+        "album_name": "Rubber Soul"
+    },
+    "106570": {
+        "song_name": "I\u2019m Only Sleeping",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 8,
+            "day": 5
+        },
+        "album_name": "Yesterday and Today"
+    },
+    "76291": {
+        "song_name": "I\u2019m So Tired",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "1291813": {
+        "song_name": "I\u2019m Talking About You",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2013,
+            "month": 11,
+            "day": 11
+        },
+        "album_name": "On Air \u2013 Live At The BBC Volume 2"
+    },
+    "1663054": {
+        "song_name": "India",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "123812": {
+        "song_name": "I Need You",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 8,
+            "day": 6
+        },
+        "album_name": "Help!"
+    },
+    "71861": {
+        "song_name": "In My Life",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 3
+        },
+        "album_name": "Rubber Soul"
+    },
+    "4817063": {
+        "song_name": "Introduction / I Saw Her Standing There",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1977,
+            "month": null,
+            "day": null
+        },
+        "album_name": "Live! at the Star-Club in Hamburg, Germany; 1962"
+    },
+    "4817147": {
+        "song_name": "I Remember You (Live in Germany)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1977,
+            "month": null,
+            "day": null
+        },
+        "album_name": "Live! at the Star-Club in Hamburg, Germany; 1962"
+    },
+    "112197": {
+        "song_name": "I Saw Her Standing There",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 3,
+            "day": 22
+        },
+        "album_name": "Please Please Me"
+    },
+    "123530": {
+        "song_name": "I Should Have Known Better",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 7,
+            "day": 13
+        },
+        "album_name": "A Hard Day\u2019s Night"
+    },
+    "5093037": {
+        "song_name": "I Should\u2019ve Known Better (Instrumental)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "The U.S. Albums"
+    },
+    "123840": {
+        "song_name": "It\u2019s All Too Much",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 1,
+            "day": 17
+        },
+        "album_name": "Yellow Submarine"
+    },
+    "1661040": {
+        "song_name": "It\u2019s for You",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "71856": {
+        "song_name": "It\u2019s Only Love",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 8,
+            "day": 6
+        },
+        "album_name": "Help!"
+    },
+    "123412": {
+        "song_name": "It Won\u2019t Be Long",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "With the Beatles"
+    },
+    "123449": {
+        "song_name": "I\u2019ve Got a Feeling",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1970,
+            "month": 5,
+            "day": 8
+        },
+        "album_name": "Let It Be"
+    },
+    "71849": {
+        "song_name": "I\u2019ve Just Seen a Face",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 8,
+            "day": 6
+        },
+        "album_name": "Help!"
+    },
+    "123430": {
+        "song_name": "I Wanna Be Your Man",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "With the Beatles"
+    },
+    "123516": {
+        "song_name": "I Want to Hold Your Hand",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 11,
+            "day": 29
+        },
+        "album_name": "Meet the Beatles!"
+    },
+    "106579": {
+        "song_name": "I Want to Tell You",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 8,
+            "day": 5
+        },
+        "album_name": "Revolver"
+    },
+    "107907": {
+        "song_name": "I Want You (She\u2019s So Heavy)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "76299": {
+        "song_name": "I Will",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "1643761": {
+        "song_name": "Jazz Piano Song",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "1768461": {
+        "song_name": "Jingle Bells",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "9204273": {
+        "song_name": "John Lennon",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "210350": {
+        "song_name": "Johnny B. Goode (Live at the BBC for \u201cSaturday Club\u201d / 15th February, 1964)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC"
+    },
+    "76301": {
+        "song_name": "Julia",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "210646": {
+        "song_name": "Junk",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1970,
+            "month": 4,
+            "day": 17
+        },
+        "album_name": "Anthology 3"
+    },
+    "210345": {
+        "song_name": "Just A Rumour",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "5197375": {
+        "song_name": "Just Fun",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "1216791": {
+        "song_name": "Kansas City",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 6,
+            "day": 14
+        },
+        "album_name": "Beatles VI"
+    },
+    "123801": {
+        "song_name": "Kansas City/Hey-Hey-Hey-Hey!",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 12,
+            "day": 4
+        },
+        "album_name": "Beatles for Sale"
+    },
+    "5403098": {
+        "song_name": "Kansas City/Hey Hey Hey Hey [Live at the BBC Disk 2]",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "First Live Recordings Volume One"
+    },
+    "210295": {
+        "song_name": "Keep Your Hands Off My Baby (Live at the BBC)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC"
+    },
+    "210215": {
+        "song_name": "Komm, gib mir deine Hand",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 2,
+            "day": 4
+        },
+        "album_name": "Something New"
+    },
+    "180333": {
+        "song_name": "Lady Madonna",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 3,
+            "day": 15
+        },
+        "album_name": "Hey Jude"
+    },
+    "210568": {
+        "song_name": "Leave My Kitten Alone",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "Anthology 1"
+    },
+    "210554": {
+        "song_name": "Lend Me Your Comb",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1995,
+            "month": 11,
+            "day": 20
+        },
+        "album_name": "Anthology 1"
+    },
+    "1575": {
+        "song_name": "Let It Be",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1970,
+            "month": 5,
+            "day": 8
+        },
+        "album_name": "Let It Be"
+    },
+    "7141659": {
+        "song_name": "Let It Be / Please Please Me / Let It Be (Take 10)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2021,
+            "month": 10,
+            "day": 15
+        },
+        "album_name": "Let It Be (Super Deluxe Edition)"
+    },
+    "1360323": {
+        "song_name": "Let\u2019s Dance",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "The Savage Young Beatles"
+    },
+    "210548": {
+        "song_name": "Like Dreamers Do",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1995,
+            "month": 11,
+            "day": 20
+        },
+        "album_name": "Anthology 1"
+    },
+    "7141663": {
+        "song_name": "Like Making An Album? (Speech)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2021,
+            "month": 10,
+            "day": 15
+        },
+        "album_name": "Let It Be (Super Deluxe Edition)"
+    },
+    "123420": {
+        "song_name": "Little Child",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "With the Beatles"
+    },
+    "4817136": {
+        "song_name": "Little Queenie (Live in Germany)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1977,
+            "month": null,
+            "day": null
+        },
+        "album_name": "Live! at the Star-Club in Hamburg, Germany; 1962"
+    },
+    "9204285": {
+        "song_name": "Liverpool And All The World!",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "210354": {
+        "song_name": "Lonesome Tears In My Eyes",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "76307": {
+        "song_name": "Long, Long, Long",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "123846": {
+        "song_name": "Long Tall Sally",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 6,
+            "day": 19
+        },
+        "album_name": "The Beatles\u2019 Second Album"
+    },
+    "4078646": {
+        "song_name": "Los Paranoias (Studio Jam)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2018,
+            "month": 11,
+            "day": 9
+        },
+        "album_name": "The Beatles (White Album) [Super Deluxe]"
+    },
+    "75229": {
+        "song_name": "Lovely Rita",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 5,
+            "day": 26
+        },
+        "album_name": "Sgt. Pepper\u2019s Lonely Hearts Club Band"
+    },
+    "117716": {
+        "song_name": "Love Me Do",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 3,
+            "day": 22
+        },
+        "album_name": "Please Please Me"
+    },
+    "1444716": {
+        "song_name": "Love of the Loved",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "210764": {
+        "song_name": "Love These Goon Shows!",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "106568": {
+        "song_name": "Love You To",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 8,
+            "day": 5
+        },
+        "album_name": "Revolver"
+    },
+    "210358": {
+        "song_name": "Lucille (Live at the BBC for \u201cSaturday Club\u201d / 5th October, 1963)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 10,
+            "day": 3
+        },
+        "album_name": "Live At The BBC"
+    },
+    "1572": {
+        "song_name": "Lucy in the Sky with Diamonds",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 5,
+            "day": 26
+        },
+        "album_name": "Sgt. Pepper\u2019s Lonely Hearts Club Band"
+    },
+    "6340783": {
+        "song_name": "Madman",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "123448": {
+        "song_name": "Maggie Mae",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1970,
+            "month": 5,
+            "day": 8
+        },
+        "album_name": "Let It Be"
+    },
+    "7141657": {
+        "song_name": "Maggie Mae / Fancy My Chances With You (Mono)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2021,
+            "month": 10,
+            "day": 15
+        },
+        "album_name": "Let It Be (Super Deluxe Edition)"
+    },
+    "123865": {
+        "song_name": "Magical Mystery Tour",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 11,
+            "day": 27
+        },
+        "album_name": "Magical Mystery Tour"
+    },
+    "210713": {
+        "song_name": "Mailman, Bring Me No More Blues",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "Anthology 3"
+    },
+    "9204272": {
+        "song_name": "Man Behind The Beatles \u2014 Brian Epstein",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "9204276": {
+        "song_name": "Man Behind The Music \u2014 George Martin",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "1574": {
+        "song_name": "Martha My Dear",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "123851": {
+        "song_name": "Matchbox",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 6,
+            "day": 19
+        },
+        "album_name": "Something New"
+    },
+    "107903": {
+        "song_name": "Maxwell\u2019s Silver Hammer",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "107911": {
+        "song_name": "Mean Mr. Mustard",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "7141728": {
+        "song_name": "Medley: I\u2019m Ready (aka Rocker) / Save the Last Dance for Me / Don\u2019t Let Me Down (1969 Glyn Johns Mix)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2021,
+            "month": 10,
+            "day": 15
+        },
+        "album_name": "Let It Be (Super Deluxe Edition)"
+    },
+    "210706": {
+        "song_name": "Medley: Rip It Up / Shake, Rattle and Roll / Blue Suede Shoes",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "Anthology 3"
+    },
+    "1549374": {
+        "song_name": "Memphis",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "210351": {
+        "song_name": "Memphis, Tennessee (Live at the BBC for \u201cPop Go The Beatles\u201d / 30th July, 1963)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC"
+    },
+    "55984": {
+        "song_name": "Michelle",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 3
+        },
+        "album_name": "Rubber Soul"
+    },
+    "117710": {
+        "song_name": "Misery",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 3,
+            "day": 22
+        },
+        "album_name": "Please Please Me"
+    },
+    "123436": {
+        "song_name": "Money (That\u2019s What I Want)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "With the Beatles"
+    },
+    "209470": {
+        "song_name": "Moonlight",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "210559": {
+        "song_name": "Moonlight Bay",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1995,
+            "month": 11,
+            "day": 20
+        },
+        "album_name": "Anthology 1"
+    },
+    "7141656": {
+        "song_name": "Morning Camera / Two Of Us (Take 4)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2021,
+            "month": 10,
+            "day": 15
+        },
+        "album_name": "Let It Be (Super Deluxe Edition)"
+    },
+    "76304": {
+        "song_name": "Mother Nature\u2019s Son",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "1396718": {
+        "song_name": "Movie Medley",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "123800": {
+        "song_name": "Mr. Moonlight",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 12,
+            "day": 4
+        },
+        "album_name": "Beatles for Sale"
+    },
+    "1143325": {
+        "song_name": "My Bonnie",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1961,
+            "month": 10,
+            "day": 23
+        },
+        "album_name": "I Saw Her Standing There"
+    },
+    "917274": {
+        "song_name": "Nobody\u2019s Child",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 10,
+            "day": 5
+        },
+        "album_name": "Ain\u2019t She Sweet"
+    },
+    "123794": {
+        "song_name": "No Reply",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 12,
+            "day": 4
+        },
+        "album_name": "Beatles for Sale"
+    },
+    "71851": {
+        "song_name": "Norwegian Wood (This Bird Has Flown)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 3
+        },
+        "album_name": "Rubber Soul"
+    },
+    "123434": {
+        "song_name": "Not a Second Time",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "With the Beatles"
+    },
+    "210670": {
+        "song_name": "Not Guilty",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1996,
+            "month": 10,
+            "day": 28
+        },
+        "album_name": "Anthology Highlights"
+    },
+    "210356": {
+        "song_name": "Nothin\u2019 Shakin\u2019",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "9666483": {
+        "song_name": "Now and Then",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2023,
+            "month": 11,
+            "day": 2
+        },
+        "album_name": "The Beatles 1967\u20131970 (2023 Edition)"
+    },
+    "123823": {
+        "song_name": "Nowhere Man",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 3
+        },
+        "album_name": "Rubber Soul"
+    },
+    "75664": {
+        "song_name": "Ob-La-Di, Ob-La-Da",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "107905": {
+        "song_name": "Octopus\u2019s Garden",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "87575": {
+        "song_name": "Oh! Darling",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "210256": {
+        "song_name": "Old Brown Shoe",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 5,
+            "day": 30
+        },
+        "album_name": "Hey Jude"
+    },
+    "123450": {
+        "song_name": "One After 909",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1970,
+            "month": 5,
+            "day": 8
+        },
+        "album_name": "Let It Be"
+    },
+    "1243089": {
+        "song_name": "One And One Is Two",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "The Songs Lennon and McCartney Gave Away"
+    },
+    "123431": {
+        "song_name": "Only a Northern Song",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 1,
+            "day": 17
+        },
+        "album_name": "Yellow Submarine"
+    },
+    "9204254": {
+        "song_name": "On Stage With The Beatles",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "7141712": {
+        "song_name": "On the Day Shift Now / All Things Must Pass (Rehearsals) [Mono]",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2021,
+            "month": 10,
+            "day": 15
+        },
+        "album_name": "Let It Be (Super Deluxe Edition)"
+    },
+    "922067": {
+        "song_name": "Ooh! My Arms (Speech)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "210767": {
+        "song_name": "Ooh! My Soul",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "1255895": {
+        "song_name": "Pantomime: Everywhere It\u2019s Christmas",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 12,
+            "day": 16
+        },
+        "album_name": "The Beatles\u2019 Christmas Album"
+    },
+    "180332": {
+        "song_name": "Paperback Writer",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 5,
+            "day": 30
+        },
+        "album_name": "A Collection Of Beatles Oldies"
+    },
+    "9204279": {
+        "song_name": "Paul McCartney",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "1715969": {
+        "song_name": "Pedro the Fisherman",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "106898": {
+        "song_name": "Penny Lane",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 2,
+            "day": 13
+        },
+        "album_name": "Magical Mystery Tour"
+    },
+    "76294": {
+        "song_name": "Piggies",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "209456": {
+        "song_name": "Please Mister Postman",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "With the Beatles"
+    },
+    "4696397": {
+        "song_name": "Please, Mister Postman (Live)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 7,
+            "day": 30
+        },
+        "album_name": "On Air \u2013 Live At The BBC Volume 2"
+    },
+    "117715": {
+        "song_name": "Please Please Me",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 1,
+            "day": 11
+        },
+        "album_name": "Please Please Me"
+    },
+    "4696339": {
+        "song_name": "Please, Please Me (Live)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 7,
+            "day": 30
+        },
+        "album_name": "On Air \u2013 Live At The BBC Volume 2"
+    },
+    "7141718": {
+        "song_name": "Ploythene Pam (Rehearsal) [Mono]",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2021,
+            "month": 10,
+            "day": 15
+        },
+        "album_name": "Let It Be (Super Deluxe Edition)"
+    },
+    "107912": {
+        "song_name": "Polythene Pam",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "117717": {
+        "song_name": "P.S. I Love You",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1962,
+            "month": 10,
+            "day": 5
+        },
+        "album_name": "Please Please Me"
+    },
+    "134353": {
+        "song_name": "Rain",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 5,
+            "day": 30
+        },
+        "album_name": "Hey Jude"
+    },
+    "1373346": {
+        "song_name": "Ready Teddy",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "210578": {
+        "song_name": "Real Love",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1996,
+            "month": 3,
+            "day": 4
+        },
+        "album_name": "Anthology 2"
+    },
+    "4710572": {
+        "song_name": "Recording Notes",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "4817141": {
+        "song_name": "Red Sails In The Sunset (Live in Germany)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1977,
+            "month": null,
+            "day": null
+        },
+        "album_name": "Live! at the Star-Club in Hamburg, Germany; 1962"
+    },
+    "1638059": {
+        "song_name": "Reminiscing",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1977,
+            "month": null,
+            "day": null
+        },
+        "album_name": "Live! at the Star-Club in Hamburg, Germany; 1962"
+    },
+    "210248": {
+        "song_name": "Revolution",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 8,
+            "day": 26
+        },
+        "album_name": "Hey Jude"
+    },
+    "50462": {
+        "song_name": "Revolution 1",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "123835": {
+        "song_name": "Revolution 9",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "210288": {
+        "song_name": "Riding On a Bus (Live at the BBC for \u201cTop Gear\u201d / 26th November, 1964)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC"
+    },
+    "9204284": {
+        "song_name": "Ringo Starr",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "1010379": {
+        "song_name": "Rip It Up (Medley)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "123797": {
+        "song_name": "Rock and Roll Music",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 12,
+            "day": 4
+        },
+        "album_name": "Beatles for Sale"
+    },
+    "5259945": {
+        "song_name": "Rocker",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": null,
+            "day": null
+        },
+        "album_name": "Get Back"
+    },
+    "76296": {
+        "song_name": "Rocky Raccoon",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "123425": {
+        "song_name": "Roll Over Beethoven",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "With the Beatles"
+    },
+    "1831499": {
+        "song_name": "Ruby Baby",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "The Savage Young Beatles"
+    },
+    "71863": {
+        "song_name": "Run for Your Life",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 3
+        },
+        "album_name": "Rubber Soul"
+    },
+    "989834": {
+        "song_name": "Saints",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "5259880": {
+        "song_name": "Save The Last Dance For Me",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": null,
+            "day": null
+        },
+        "album_name": "Get Back"
+    },
+    "123832": {
+        "song_name": "Savoy Truffle",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "210542": {
+        "song_name": "Searchin\u2019",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "Anthology 1"
+    },
+    "1141233": {
+        "song_name": "September in the Rain",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "1501477": {
+        "song_name": "Set Fire To That Lot! (Speech)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "76306": {
+        "song_name": "Sexy Sadie",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "76560": {
+        "song_name": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 5,
+            "day": 26
+        },
+        "album_name": "Sgt. Pepper\u2019s Lonely Hearts Club Band"
+    },
+    "1062558": {
+        "song_name": "Shake, Rattle, And Roll",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "210307": {
+        "song_name": "Sha La La La La!",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "107913": {
+        "song_name": "She Came in Through the Bathroom Window",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "111329": {
+        "song_name": "She Loves You",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 8,
+            "day": 23
+        },
+        "album_name": "Twist and Shout"
+    },
+    "106577": {
+        "song_name": "She Said She Said",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 8,
+            "day": 5
+        },
+        "album_name": "Revolver"
+    },
+    "210236": {
+        "song_name": "She\u2019s a Woman",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 27
+        },
+        "album_name": "Beatles \u201965"
+    },
+    "51118": {
+        "song_name": "She\u2019s Leaving Home",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 5,
+            "day": 26
+        },
+        "album_name": "Sgt. Pepper\u2019s Lonely Hearts Club Band"
+    },
+    "4817145": {
+        "song_name": "Shimmy Shake (Live in Germany)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1977,
+            "month": null,
+            "day": null
+        },
+        "album_name": "Live! at the Star-Club in Hamburg, Germany; 1962"
+    },
+    "210564": {
+        "song_name": "Shout",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1995,
+            "month": 11,
+            "day": 20
+        },
+        "album_name": "Anthology 1"
+    },
+    "210217": {
+        "song_name": "Sie Liebt Dich",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 2,
+            "day": 4
+        },
+        "album_name": "Rarities"
+    },
+    "123849": {
+        "song_name": "Slow Down",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 8,
+            "day": 24
+        },
+        "album_name": "Something New"
+    },
+    "9204280": {
+        "song_name": "Sneaky Haircuts And More About Paul",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "210754": {
+        "song_name": "So How Come (No One Loves Me)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "210313": {
+        "song_name": "Soldier of Love (Live at the BBC)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC"
+    },
+    "210305": {
+        "song_name": "Some Other Guy",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1993,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC"
+    },
+    "87564": {
+        "song_name": "Something",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "5169193": {
+        "song_name": "Something/Blue Jay Way (LOVE Version)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2006,
+            "month": 11,
+            "day": 20
+        },
+        "album_name": null
+    },
+    "359346": {
+        "song_name": "Sour Milk Sea",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 8,
+            "day": null
+        },
+        "album_name": null
+    },
+    "5842090": {
+        "song_name": "Stage Settings",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "Complete Rooftop Concert (Unofficial)"
+    },
+    "1335412": {
+        "song_name": "Stand By Me",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "1156439": {
+        "song_name": "Step Inside Love",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "210674": {
+        "song_name": "Step Inside Love / Los Paranoias",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1996,
+            "month": 10,
+            "day": 28
+        },
+        "album_name": "Anthology 3"
+    },
+    "4078622": {
+        "song_name": "St. Louis Blues (Studio Jam)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2018,
+            "month": 11,
+            "day": 9
+        },
+        "album_name": "The Beatles (White Album) [Super Deluxe]"
+    },
+    "1755240": {
+        "song_name": "Stranger in My Arms",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "68179": {
+        "song_name": "Strawberry Fields Forever",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 2,
+            "day": 13
+        },
+        "album_name": "Magical Mystery Tour"
+    },
+    "107909": {
+        "song_name": "Sun King",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "2241133": {
+        "song_name": "Sure to Fall",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "1335672": {
+        "song_name": "Suzy Parker",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "1753381": {
+        "song_name": "Swanee River",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "Hamburg Twist"
+    },
+    "1589677": {
+        "song_name": "Sweet Georgia Brown",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 10,
+            "day": 5
+        },
+        "album_name": "Ain\u2019t She Sweet"
+    },
+    "210352": {
+        "song_name": "Sweet Little Sixteen [Live at the BBC Disk 2]",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC. Disk 2"
+    },
+    "1693573": {
+        "song_name": "Take Good Care of My Baby",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "4817144": {
+        "song_name": "Talkin\u2019 \u2019Bout You (Live in Germany)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1977,
+            "month": null,
+            "day": null
+        },
+        "album_name": "Live! at the Star-Club in Hamburg, Germany; 1962"
+    },
+    "75223": {
+        "song_name": "Taxman",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 8,
+            "day": 5
+        },
+        "album_name": "Revolver"
+    },
+    "7141735": {
+        "song_name": "Teddy Boy (1969 Glyn Johns Mix)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2021,
+            "month": 10,
+            "day": 15
+        },
+        "album_name": "Let It Be (Super Deluxe Edition)"
+    },
+    "123818": {
+        "song_name": "Tell Me What You See",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 8,
+            "day": 6
+        },
+        "album_name": "Beatles VI"
+    },
+    "123534": {
+        "song_name": "Tell Me Why",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 7,
+            "day": 10
+        },
+        "album_name": "A Hard Day\u2019s Night"
+    },
+    "123529": {
+        "song_name": "Thank You Girl",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 4,
+            "day": 10
+        },
+        "album_name": "The Beatles\u2019 Second Album"
+    },
+    "210580": {
+        "song_name": "That Means a Lot (Take 1)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1996,
+            "month": 3,
+            "day": 18
+        },
+        "album_name": "Anthology 2"
+    },
+    "5373388": {
+        "song_name": "That\u2019s All Right (Mama) [Live at the BBC for \u201cPop Go The Beatles\u201d / 16th July, 1963]",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC"
+    },
+    "210308": {
+        "song_name": "That\u2019s Alright (Mama)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "134654": {
+        "song_name": "The Ballad of John and Yoko",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 5,
+            "day": 30
+        },
+        "album_name": "Hey Jude"
+    },
+    "1243314": {
+        "song_name": "The Beatles\u2019 1968 Christmas Record",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 12,
+            "day": 20
+        },
+        "album_name": "The Beatles\u2019 Christmas Album"
+    },
+    "1581854": {
+        "song_name": "The Beatles\u2019 Christmas Record",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 12,
+            "day": 6
+        },
+        "album_name": "The Beatles\u2019 Christmas Album"
+    },
+    "1004055": {
+        "song_name": "The Beatles Compilation Discography",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "9204281": {
+        "song_name": "The Beatles Look At Life",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "1515675": {
+        "song_name": "The Beatles: Rock Band Setlist",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "1434548": {
+        "song_name": "The Beatles\u2019 Seventh Christmas Record",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 12,
+            "day": 19
+        },
+        "album_name": "The Beatles\u2019 Christmas Album"
+    },
+    "1491893": {
+        "song_name": "The Beatles\u2019 Third Christmas Record",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 17
+        },
+        "album_name": "The Beatles\u2019 Christmas Album"
+    },
+    "75667": {
+        "song_name": "The Continuing Story of Bungalow Bill",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "107893": {
+        "song_name": "The End",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "111334": {
+        "song_name": "The Fool on the Hill",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 11,
+            "day": 27
+        },
+        "album_name": "Magical Mystery Tour"
+    },
+    "866061": {
+        "song_name": "The Happy Rishikesh Song",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "210349": {
+        "song_name": "The Honeymoon Song",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "210247": {
+        "song_name": "The Inner Light",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 3,
+            "day": 15
+        },
+        "album_name": "Rarities"
+    },
+    "123451": {
+        "song_name": "The Long and Winding Road",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1970,
+            "month": 5,
+            "day": 11
+        },
+        "album_name": "Let It Be"
+    },
+    "4773385": {
+        "song_name": "The Long One (Trial Edit & Mix - 30 July 1969)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road (Super Deluxe Edition)"
+    },
+    "123811": {
+        "song_name": "The Night Before",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 8,
+            "day": 6
+        },
+        "album_name": "Help!"
+    },
+    "9133549": {
+        "song_name": "THE PR",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "117723": {
+        "song_name": "There\u2019s a Place",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 3,
+            "day": 22
+        },
+        "album_name": "Please Please Me"
+    },
+    "210546": {
+        "song_name": "The Sheik of Araby",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1995,
+            "month": 11,
+            "day": 20
+        },
+        "album_name": "Anthology 1"
+    },
+    "5259946": {
+        "song_name": "The Walk",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": null,
+            "day": null
+        },
+        "album_name": null
+    },
+    "71855": {
+        "song_name": "The Word",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 3
+        },
+        "album_name": "Rubber Soul"
+    },
+    "111335": {
+        "song_name": "Things We Said Today",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 7,
+            "day": 10
+        },
+        "album_name": "A Hard Day\u2019s Night"
+    },
+    "71854": {
+        "song_name": "Think for Yourself",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 3
+        },
+        "album_name": "Rubber Soul"
+    },
+    "123522": {
+        "song_name": "This Boy",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 11,
+            "day": 29
+        },
+        "album_name": "Meet the Beatles!"
+    },
+    "210544": {
+        "song_name": "Three Cool Cats",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "Anthology 1"
+    },
+    "123815": {
+        "song_name": "Ticket to Ride",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 4,
+            "day": 9
+        },
+        "album_name": "Help!"
+    },
+    "6549364": {
+        "song_name": "Tie Me Kangaroo Down, Sport (live)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 12,
+            "day": 26
+        },
+        "album_name": null
+    },
+    "123421": {
+        "song_name": "Till There Was You",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "With the Beatles"
+    },
+    "210340": {
+        "song_name": "To Know Her Is to Love Her (Live at the BBC)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC"
+    },
+    "75225": {
+        "song_name": "Tomorrow Never Knows",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 8,
+            "day": 5
+        },
+        "album_name": "Revolver"
+    },
+    "4703410": {
+        "song_name": "Too Bad About Sorrows",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1981,
+            "month": null,
+            "day": null
+        },
+        "album_name": null
+    },
+    "210292": {
+        "song_name": "Too Much Monkey Business",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "209452": {
+        "song_name": "Twist and Shout",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 3,
+            "day": 22
+        },
+        "album_name": "Please Please Me"
+    },
+    "123441": {
+        "song_name": "Two of Us",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1970,
+            "month": 5,
+            "day": 8
+        },
+        "album_name": "Let It Be"
+    },
+    "9204282": {
+        "song_name": "\u201cVictims\u201d Of Beatlemania",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "71862": {
+        "song_name": "Wait",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 3
+        },
+        "album_name": "Rubber Soul"
+    },
+    "7141667": {
+        "song_name": "Wake Up Little Susie / I Me Mine (Take 11)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2021,
+            "month": 10,
+            "day": 15
+        },
+        "album_name": "Let It Be (Super Deluxe Edition)"
+    },
+    "359374": {
+        "song_name": "Watching Rainbows",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": null,
+            "day": null
+        },
+        "album_name": null
+    },
+    "123863": {
+        "song_name": "We Can Work It Out",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 3
+        },
+        "album_name": "Yesterday and Today"
+    },
+    "1230722": {
+        "song_name": "What\u2019d I Say",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "The Savage Young Beatles"
+    },
+    "123822": {
+        "song_name": "What Goes On",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 3
+        },
+        "album_name": "Rubber Soul"
+    },
+    "1196901": {
+        "song_name": "What Goes On Girl",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "5373395": {
+        "song_name": "What Is It, George? (Live at the BBC for \u201cPop Go The Beatles\u201d / 16th July, 1963)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC"
+    },
+    "210673": {
+        "song_name": "What\u2019s the New Mary Jane",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1996,
+            "month": 10,
+            "day": 28
+        },
+        "album_name": null
+    },
+    "123806": {
+        "song_name": "What You\u2019re Doing",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 12,
+            "day": 4
+        },
+        "album_name": "Beatles for Sale"
+    },
+    "123541": {
+        "song_name": "When I Get Home",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 7,
+            "day": 10
+        },
+        "album_name": "A Hard Day\u2019s Night"
+    },
+    "76569": {
+        "song_name": "When I\u2019m Sixty-Four",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 5,
+            "day": 26
+        },
+        "album_name": "Sgt. Pepper\u2019s Lonely Hearts Club Band"
+    },
+    "1986047": {
+        "song_name": "When the saints go marchin\u2019 in",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "5832541": {
+        "song_name": "Where Have You Been All My Life",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "First Live Recordings Volume One"
+    },
+    "75670": {
+        "song_name": "While My Guitar Gently Weeps",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "9204274": {
+        "song_name": "Who\u2019s A Millionaire?",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 11,
+            "day": 23
+        },
+        "album_name": "The Beatles\u2019 Story"
+    },
+    "1312240": {
+        "song_name": "Why",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "The Savage Young Beatles"
+    },
+    "76298": {
+        "song_name": "Why Don\u2019t We Do It in the Road?",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "75665": {
+        "song_name": "Wild Honey Pie",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "71029": {
+        "song_name": "With a Little Help from My Friends",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 5,
+            "day": 26
+        },
+        "album_name": "Sgt. Pepper\u2019s Lonely Hearts Club Band"
+    },
+    "76567": {
+        "song_name": "Within You Without You",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 5,
+            "day": 26
+        },
+        "album_name": "Sgt. Pepper\u2019s Lonely Hearts Club Band"
+    },
+    "5373551": {
+        "song_name": "Within You, Without You (Instrumental)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1996,
+            "month": 3,
+            "day": 18
+        },
+        "album_name": "Anthology 2"
+    },
+    "867756": {
+        "song_name": "Within You Without You/Tomorrow Never Knows",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2006,
+            "month": 11,
+            "day": 21
+        },
+        "album_name": "Love"
+    },
+    "7141724": {
+        "song_name": "Without A Song (Jam)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2021,
+            "month": 10,
+            "day": 15
+        },
+        "album_name": "Let It Be (Super Deluxe Edition)"
+    },
+    "123802": {
+        "song_name": "Words of Love",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 12,
+            "day": 4
+        },
+        "album_name": "Beatles for Sale"
+    },
+    "935839": {
+        "song_name": "Ya Ya",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": "The Savage Young Beatles"
+    },
+    "106575": {
+        "song_name": "Yellow Submarine",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1966,
+            "month": 8,
+            "day": 5
+        },
+        "album_name": "Revolver"
+    },
+    "76303": {
+        "song_name": "Yer Blues",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1968,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "The Beatles (White Album)"
+    },
+    "112193": {
+        "song_name": "Yes It Is",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 4,
+            "day": 9
+        },
+        "album_name": "Beatles VI"
+    },
+    "2236": {
+        "song_name": "Yesterday",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 9,
+            "day": 13
+        },
+        "album_name": "Help!"
+    },
+    "112198": {
+        "song_name": "You Can\u2019t Do That",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1964,
+            "month": 3,
+            "day": 16
+        },
+        "album_name": "The Beatles\u2019 Second Album"
+    },
+    "210257": {
+        "song_name": "You Know My Name (Look Up the Number)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1970,
+            "month": 3,
+            "day": 6
+        },
+        "album_name": "Rarities"
+    },
+    "210566": {
+        "song_name": "You Know What to Do",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1995,
+            "month": 11,
+            "day": 20
+        },
+        "album_name": "Anthology 1"
+    },
+    "123817": {
+        "song_name": "You Like Me Too Much",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 8,
+            "day": 6
+        },
+        "album_name": "Beatles VI"
+    },
+    "210539": {
+        "song_name": "You\u2019ll Be Mine",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1995,
+            "month": 11,
+            "day": 21
+        },
+        "album_name": "Anthology 1"
+    },
+    "1548": {
+        "song_name": "You Never Give Me Your Money",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1969,
+            "month": 9,
+            "day": 26
+        },
+        "album_name": "Abbey Road"
+    },
+    "210302": {
+        "song_name": "Young Blood (Live at the BBC)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1994,
+            "month": 11,
+            "day": 30
+        },
+        "album_name": "Live At The BBC"
+    },
+    "209457": {
+        "song_name": "You Really Got a Hold on Me",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1963,
+            "month": 11,
+            "day": 22
+        },
+        "album_name": "With the Beatles"
+    },
+    "5259948": {
+        "song_name": "You Really Gotta Hold On Me",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "123814": {
+        "song_name": "You\u2019re Going to Lose That Girl",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 8,
+            "day": 6
+        },
+        "album_name": "Help!"
+    },
+    "4078632": {
+        "song_name": "(You\u2019re So Square) Baby I Don\u2019t Care (Studio Jam)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 2018,
+            "month": 11,
+            "day": 9
+        },
+        "album_name": "The Beatles (White Album) [Super Deluxe]"
+    },
+    "4817115": {
+        "song_name": "Your Feet\u2019s Too Big (Live in Germany)",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1977,
+            "month": null,
+            "day": null
+        },
+        "album_name": "Live! at the Star-Club in Hamburg, Germany; 1962"
+    },
+    "123866": {
+        "song_name": "Your Mother Should Know",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1967,
+            "month": 11,
+            "day": 27
+        },
+        "album_name": "Magical Mystery Tour"
+    },
+    "123428": {
+        "song_name": "You\u2019ve Got A Hold On Me",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    },
+    "112200": {
+        "song_name": "You\u2019ve Got to Hide Your Love Away",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 8,
+            "day": 6
+        },
+        "album_name": "Help!"
+    },
+    "71852": {
+        "song_name": "You Won\u2019t See Me",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": {
+            "year": 1965,
+            "month": 12,
+            "day": 3
+        },
+        "album_name": "Rubber Soul"
+    },
+    "1493730": {
+        "song_name": "Yo\u2019ve Got to Hide Your Love Away",
+        "artist_name": "The Beatles",
+        "artist_id": 586,
+        "release_date": null,
+        "album_name": null
+    }
+}
