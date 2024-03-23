@@ -62,6 +62,8 @@ class GeniusSearch:
         return artist_id, artist_name
 
     def search_keyword(self, keyword, limit=None):
+        # replace the spaces with %20
+        keyword = keyword.replace(" ", "%20")
         # Create the request
         url = "https://api.genius.com/search?q=" + keyword
         response = requests.get(url, headers=self.headers)
