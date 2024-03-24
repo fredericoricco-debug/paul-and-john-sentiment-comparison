@@ -37,11 +37,11 @@ def perform_sentiment_analysis(labels, mapping, data_path, remove_love, remove_s
 
     # perform word removal
     if remove_love:
-        dataframe["lyrics"] = dataframe["lyrics"].apply(lambda x: re.sub(r"\b" + "love" + r"\b", "", x, flags=re.IGNORECASE))
+        dataframe["lyrics"] = dataframe["lyrics"].fillna("").apply(lambda x: re.sub(r"\b" + "love" + r"\b", "", x, flags=re.IGNORECASE))
     if remove_singing:
         for word in singing:
             pattern = r"\b" + word + r"\b"
-            dataframe["lyrics"] = dataframe["lyrics"].apply(lambda x: re.sub(pattern, "", x, flags=re.IGNORECASE))
+            dataframe["lyrics"] = dataframe["lyrics"].fillna("").apply(lambda x: re.sub(pattern, "", x, flags=re.IGNORECASE))
 
 
     # Add two new columns to the dataframe: "Sentiment" and "Sentiment Score"

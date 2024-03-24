@@ -1,3 +1,6 @@
+# THIS SCRIPT IS USED TO INTERPRET THE SENTIMENT ANALYSIS DATA OF THE BEATLES LYRICS
+# THIS SCRIPT CAN ONLY BE RUN IF THE DATA FOR THE BEATLES LYRICS SENTIMENT ANALYSIS IS AVAILABLE
+
 # Imports
 import os
 import pandas as pd
@@ -18,9 +21,11 @@ import spacy
 import matplotlib.pyplot as plt
 import seaborn as sns
 import matplotlib.dates as mdates
+import matplotlib.patches as mpatches
 
 # Significant historical events dictionary
-history = {"Kennedy Assassination": "1963-11-22", "Civil Rights Act": "1964-07-02", 'The Voting Rights Act': '1965-08-06', "Moon Landing": "1969-07-20"}
+history = {"Kennedy Assassination": "1963-11-22", "Civil Rights Act": "1964-07-02", "Moon Landing": "1969-07-20", "John Meets Yoko": "1966-11-07", "Paul Breaks Up With Jane": "1968-07-17"}
+beatles_albums_release = {"Please Please Me": "1963-03-22", "With the Beatles": "1963-11-22", "A Hard Day's Night": "1964-07-10", "Beatles for Sale": "1964-12-04", "Help!": "1965-08-06", "Rubber Soul": "1965-12-03", "Revolver": "1966-08-05", "Sgt. Pepper's Lonely Hearts Club Band": "1967-06-01", "Magical Mystery Tour": "1967-11-27", "The Beatles (White Album)": "1968-11-22", "Abbey Road": "1969-09-26"}
 
 nlp = spacy.load("en_core_web_sm")
 
@@ -198,6 +203,64 @@ def calculate_and_plot_moving_average_historical(data, months, history):
     plt.tight_layout()
     plt.savefig(f'plots/moving_average_historical_{months}_{now.strftime("%Y-%m-%d_%H-%M-%S")}.png')
 
+def calculate_and_plot_moving_average_historical_and_albums(data, months, history, beatles_albums_release):
+    # Assuming refined_literal_date_parse is a previously defined function
+    data['release_date'] = data['release_date'].apply(refined_literal_date_parse)
+    data['year_month'] = data['release_date'].dt.to_period('M')
+    
+    grouped_data = data.groupby(['composer', 'year_month'])['Category Score'].mean().reset_index()
+    grouped_data['moving_average'] = grouped_data.groupby('composer')['Category Score'].transform(lambda x: x.rolling(window=months, min_periods=1).mean())
+
+    plt.figure(figsize=(14, 7))
+    for composer in ['Lennon', 'McCartney']:
+        subset = grouped_data[grouped_data['composer'] == composer]
+        plt.plot(pd.to_datetime(subset['year_month'].astype(str)), subset['moving_average'], label=f'{composer} {months}-Month MA')
+
+    for event, date in history.items():
+        event_date = datetime.strptime(date, "%Y-%m-%d")
+        plt.axvline(x=event_date, color='k', linestyle='--')
+        plt.text(event_date + pd.to_timedelta(15, 'D'), plt.ylim()[1] - 0.05 * (plt.ylim()[1] - plt.ylim()[0]), event, rotation=90, verticalalignment='top')
+
+    # Generate a color palette that's large enough
+    colors = plt.cm.get_cmap('tab20', len(beatles_albums_release)).colors
+
+    # Sort albums by release date
+    sorted_albums = sorted(beatles_albums_release.items(), key=lambda x: x[1])
+
+    # Shading Beatles albums periods and creating a patch for the legend
+    patches = []  # To hold legend patches
+    for i, (album, release_date) in enumerate(sorted_albums):
+        start_date = datetime.strptime(release_date, "%Y-%m-%d")
+        if i + 1 < len(sorted_albums):
+            end_date = datetime.strptime(sorted_albums[i + 1][1], "%Y-%m-%d")
+        else:
+            end_date = start_date + pd.to_timedelta(250, 'D')  # Adjust as needed
+        
+        plt.axvspan(start_date, end_date, color=colors[i], alpha=0.3)
+        patches.append(mpatches.Patch(color=colors[i], label=album))
+    
+
+    plt.title(f'{months}-Month Moving Average of Sentiment Scores with Historical Events and Beatles Albums')
+    plt.xlabel('Date')
+    plt.ylabel('Moving Average of Sentiment Score')
+    # Create two legends: one for the moving average lines, one for the albums
+    first_legend = plt.legend(handles=patches, bbox_to_anchor=(1.05, 1), loc='upper left', fontsize='medium', title="Albums")
+    plt.gca().add_artist(first_legend)
+    
+    # The second legend for the moving averages is added automatically when you call plt.legend() without handles
+    plt.legend(loc='upper left', bbox_to_anchor=(1.05, 0.5), fontsize='medium', title="Moving Averages")
+    plt.subplots_adjust(right=2.75)  # Adjust the right space of the subplots to fit the legend
+    plt.grid(True)
+    plt.xticks(rotation=45)
+
+    plt.gca().xaxis.set_major_locator(mdates.YearLocator())
+    plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%Y'))
+    
+    plt.tight_layout()
+
+    now = datetime.now()
+    plt.savefig(f'plots/moving_average_albums_{months}_{now.strftime("%Y-%m-%d_%H-%M-%S")}.png')
+
 if __name__ == "__main__":
     # Downloads
     #nltk.download('punkt')
@@ -208,7 +271,8 @@ if __name__ == "__main__":
     perform_distribution = False
     perform_unique_cloud = False
     perform_moving_average = False
-    perform_historical_events = True
+    perform_historical_events = False
+    perform_albums = True
     path = "sentiment_scores/sentiment_analysis_2024-03-21_18-50-18.csv"
     ##############
     # Check if the path is empty
@@ -236,6 +300,10 @@ if __name__ == "__main__":
     # Perform evolution of scores over time with historical events?
     if perform_historical_events:
         calculate_and_plot_moving_average_historical(data, 6, history)
+
+    # Perform evolution of scores over time with historical events and Beatles albums?
+    if perform_albums:
+        calculate_and_plot_moving_average_historical_and_albums(data, 6, history, beatles_albums_release)
         
     
 

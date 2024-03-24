@@ -75,7 +75,7 @@ if __name__ == "__main__":
     ################################################
     ################ CONFIGURATION ################
     # Set the aritists name to gather all lyrics for
-    artist_names = ["The Beatles", "Paul McCartney", "John Lennon", "Wings"]
+    artist_names = ["John Lennon"]
     # Set the file path to save the data
     file_path = "artist_data/"
     # Set the file path to save the filtered data
