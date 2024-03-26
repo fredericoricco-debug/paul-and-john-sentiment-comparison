@@ -24,7 +24,7 @@ import matplotlib.dates as mdates
 import matplotlib.patches as mpatches
 
 # Significant historical events dictionary
-history = {"Kennedy Assassination": "1963-11-22", "Civil Rights Act": "1964-07-02", "Moon Landing": "1969-07-20", "John Meets Yoko": "1966-11-07", "Paul Breaks Up With Jane": "1968-07-17"}
+history = {"Kennedy Assassination": "1963-11-22", "Civil Rights Act": "1964-07-02", "Moon Landing": "1969-07-20", "John Meets Yoko Ono": "1966-11-07", "Paul Meets Linda Eastman": "1968-07-17"}
 beatles_albums_release = {"Please Please Me": "1963-03-22", "With the Beatles": "1963-11-22", "A Hard Day's Night": "1964-07-10", "Beatles for Sale": "1964-12-04", "Help!": "1965-08-06", "Rubber Soul": "1965-12-03", "Revolver": "1966-08-05", "Sgt. Pepper's Lonely Hearts Club Band": "1967-06-01", "Magical Mystery Tour": "1967-11-27", "The Beatles (White Album)": "1968-11-22", "Abbey Road": "1969-09-26"}
 
 nlp = spacy.load("en_core_web_sm")
