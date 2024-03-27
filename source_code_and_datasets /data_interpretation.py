@@ -273,7 +273,7 @@ if __name__ == "__main__":
     perform_moving_average = False
     perform_historical_events = False
     perform_albums = True
-    path = "sentiment_scores/sentiment_analysis_2024-03-21_18-50-18.csv"
+    path = "sentiment_scores/sentiment_analysis_beatles.csv"
     ##############
     # Check if the path is empty
     if path == None or path == "" or not os.path.exists(path):

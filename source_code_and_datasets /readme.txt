@@ -1,3 +1,12 @@
+DATASETS:
+
+The dataset with raw lyrical data is present in artist_lyrics/the_beatles_lyrics.csv, this data is used to perform sentiment analysis.
+The final data set used for visualisations is present in sentiment_scores/sentiment_analysis_beatles.csv.
+
+INSTRUCTION TO USE THE TOOL:
+
+First ensure the root directory is "source_code_and_datasets" not the directory containing the report.
+
 To use this tool, please go to: https://docs.genius.com/#/getting-started-h1 and follow the instructions to get your API key. 
 
 Once you have the API token, fill the config.json file with the token.
