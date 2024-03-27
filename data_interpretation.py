@@ -25,7 +25,7 @@ import matplotlib.patches as mpatches
 
 # Significant historical events dictionary
 history = {"Kennedy Assassination": "1963-11-22", "Civil Rights Act": "1964-07-02", "Moon Landing": "1969-07-20", "John Meets Yoko Ono": "1966-11-07", "Paul Meets Linda Eastman": "1968-07-17"}
-beatles_albums_release = {"Please Please Me": "1963-03-22", "With the Beatles": "1963-11-22", "A Hard Day's Night": "1964-07-10", "Beatles for Sale": "1964-12-04", "Help!": "1965-08-06", "Rubber Soul": "1965-12-03", "Revolver": "1966-08-05", "Sgt. Pepper's Lonely Hearts Club Band": "1967-06-01", "Magical Mystery Tour": "1967-11-27", "The Beatles (White Album)": "1968-11-22", "Abbey Road": "1969-09-26"}
+beatles_albums_release = {"Please Please Me": "1963-03-22", "With the Beatles": "1963-11-22", "A Hard Day's Night": "1964-07-10", "Beatles for Sale": "1964-12-04", "Help!": "1965-08-06", "Rubber Soul": "1965-12-03", "Revolver": "1966-08-05", "Sgt. Pepper's": "1967-06-01", "Magical Mystery Tour": "1967-11-27", "The Beatles (White Album)": "1968-11-22", "Abbey Road": "1969-09-26"}
 
 nlp = spacy.load("en_core_web_sm")
 
@@ -64,9 +64,9 @@ def create_distribution_plot(data):
     ax.set_ylim(-1, 1)
     
     # Adding titles and labels
-    plt.title('Distribution of Sentiment Scores by Composer', fontsize=16)
+    plt.title('Lennon vs. McCartney Distribution of Sentiment Scores for Beatles Lyrics', fontsize=16)
     plt.xlabel('Composer', fontsize=14)
-    plt.ylabel('Category Score', fontsize=14)
+    plt.ylabel('Sentiment Score', fontsize=14)
     
     # Save the plot as an image, using the time and date as part of the filename
     now = datetime.now()
@@ -214,12 +214,12 @@ def calculate_and_plot_moving_average_historical_and_albums(data, months, histor
     plt.figure(figsize=(14, 7))
     for composer in ['Lennon', 'McCartney']:
         subset = grouped_data[grouped_data['composer'] == composer]
-        plt.plot(pd.to_datetime(subset['year_month'].astype(str)), subset['moving_average'], label=f'{composer} {months}-Month MA')
+        plt.plot(pd.to_datetime(subset['year_month'].astype(str)), subset['moving_average'], label=f'{composer} {months}-Month MA', linewidth=3)
 
     for event, date in history.items():
         event_date = datetime.strptime(date, "%Y-%m-%d")
         plt.axvline(x=event_date, color='k', linestyle='--')
-        plt.text(event_date + pd.to_timedelta(15, 'D'), plt.ylim()[1] - 0.05 * (plt.ylim()[1] - plt.ylim()[0]), event, rotation=90, verticalalignment='top')
+        plt.text(event_date + pd.to_timedelta(15, 'D'), plt.ylim()[1] - 0.05 * (plt.ylim()[1] - plt.ylim()[0]), event, rotation=90, verticalalignment='top', fontsize=15)
 
     # Generate a color palette that's large enough
     colors = plt.cm.get_cmap('tab20', len(beatles_albums_release)).colors
@@ -240,18 +240,18 @@ def calculate_and_plot_moving_average_historical_and_albums(data, months, histor
         patches.append(mpatches.Patch(color=colors[i], label=album))
     
 
-    plt.title(f'{months}-Month Moving Average of Sentiment Scores with Historical Events and Beatles Albums')
-    plt.xlabel('Date')
-    plt.ylabel('Moving Average of Sentiment Score')
+    plt.title(f'{months}-Month Moving Average of Sentiment Scores with Historical Events and Beatles Albums', fontsize=16)
+    plt.xlabel('Date', fontsize=14)
+    plt.ylabel('Moving Average of Sentiment Score', fontsize=14)
     # Create two legends: one for the moving average lines, one for the albums
-    first_legend = plt.legend(handles=patches, bbox_to_anchor=(1.05, 1), loc='upper left', fontsize='medium', title="Albums")
+    first_legend = plt.legend(handles=patches, bbox_to_anchor=(1.01, 1), loc='upper left', fontsize=15, title="Albums")
     plt.gca().add_artist(first_legend)
     
     # The second legend for the moving averages is added automatically when you call plt.legend() without handles
-    plt.legend(loc='upper left', bbox_to_anchor=(1.05, 0.5), fontsize='medium', title="Moving Averages")
+    plt.legend(loc='upper left', bbox_to_anchor=(1.01, 0.35), fontsize=15, title="Moving Averages")
     plt.subplots_adjust(right=2.75)  # Adjust the right space of the subplots to fit the legend
     plt.grid(True)
-    plt.xticks(rotation=45)
+    plt.xticks(rotation=45, fontsize=12)
 
     plt.gca().xaxis.set_major_locator(mdates.YearLocator())
     plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%Y'))
